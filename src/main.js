@@ -8,7 +8,7 @@ app.$mount()
 
 export default {
   config: {
-    pages: ['^pages/index'],
+    pages: ['^pages/index', 'pages/test'],
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
